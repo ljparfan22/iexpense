@@ -2,8 +2,8 @@
 
 namespace iExpenseApi.Services
 {
-    interface IAuthService
+    public interface IAuthService
     {
-        Task<string> Login(string username, string password);
+        Task<bool> Login(string username, string password);
     }
 }
