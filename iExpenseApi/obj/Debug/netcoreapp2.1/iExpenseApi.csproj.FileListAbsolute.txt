@@ -1,0 +1,14 @@
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\bin\Debug\netcoreapp2.1\iExpenseApi.deps.json
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\bin\Debug\netcoreapp2.1\iExpenseApi.runtimeconfig.json
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\bin\Debug\netcoreapp2.1\iExpenseApi.runtimeconfig.dev.json
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\bin\Debug\netcoreapp2.1\iExpenseApi.dll
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.csprojAssemblyReference.cache
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.csproj.CoreCompileInputs.cache
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.RazorAssemblyInfo.cache
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.RazorAssemblyInfo.cs
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.AssemblyInfoInputs.cache
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.AssemblyInfo.cs
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.RazorTargetAssemblyInfo.cache
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\bin\Debug\netcoreapp2.1\iExpenseApi.pdb
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.dll
+C:\Users\LeonardParfan\source\repos\iExpense\iExpenseApi\obj\Debug\netcoreapp2.1\iExpenseApi.pdb
