@@ -7,7 +7,7 @@ namespace iExpenseApi.Dtos
     {
         [Required]
         [StringLength(100, MinimumLength = 5)]
-        public string UserName { get; set; }
+        public string Username { get; set; }
         [MinLength(7)]
         public string Password { get; set; }
         [Required]

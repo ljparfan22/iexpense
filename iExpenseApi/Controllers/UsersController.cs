@@ -37,7 +37,7 @@ namespace iExpenseApi
                 }
                 var user = new User
                 {
-                    UserName = requestBody.UserName,
+                    UserName = requestBody.Username,
                     Email = requestBody.Email,
                     FirstName = requestBody.FirstName,
                     LastName = requestBody.LastName,
@@ -51,7 +51,7 @@ namespace iExpenseApi
                 var response = new
                 {
                     result.Id,
-                    result.UserName,
+                    username = result.UserName,
                     result.Email,
                     FullName = $"{result.FirstName} {result.LastName}"
                 };

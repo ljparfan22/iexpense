@@ -33,10 +33,10 @@ namespace iExpenseApi.Controllers
         {
             try
             {
-                var succeeded = await _authService.Login(requestBody.UserName, requestBody.Password);
+                var succeeded = await _authService.Login(requestBody.Username, requestBody.Password);
                 if (!succeeded) return BadRequest(new { errors = new List<string> { "Invalid username or password." } });
 
-                var currentUser = await _userService.GetUser(requestBody.UserName);
+                var currentUser = await _userService.GetUser(requestBody.Username);
                 var token = _userService.GenerateAuthToken(currentUser, "APPLICATIONSECREEEEEEEEEEEEEEEEEEET");
                 return Ok(new { token });
             }
